@@ -1,5 +1,4 @@
 .idea
 source/build/
-source/dlls/
 source/keys/
 *__pycache__*
