@@ -1,4 +1,9 @@
 .idea
-source/build/
+source/build/build
+source/build/dist
+source/build/_buildnew.bat
+source/build/build.json
+
+
 source/keys/
 *__pycache__*
